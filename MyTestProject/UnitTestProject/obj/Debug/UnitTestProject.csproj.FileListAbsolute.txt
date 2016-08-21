@@ -1,0 +1,13 @@
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\Default.srprofile
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\TechTalk.SpecRun.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\WebDriver.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\WebDriver.xml

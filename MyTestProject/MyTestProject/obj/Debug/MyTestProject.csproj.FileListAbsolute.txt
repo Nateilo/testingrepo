@@ -1,0 +1,5 @@
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\MyTestProject\bin\Debug\MyTestProject.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\MyTestProject\bin\Debug\MyTestProject.pdb
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\MyTestProject\obj\Debug\MyTestProject.csprojResolveAssemblyReference.cache
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\MyTestProject\obj\Debug\MyTestProject.dll
+c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\MyTestProject\obj\Debug\MyTestProject.pdb
