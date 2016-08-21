@@ -23,26 +23,28 @@ namespace UnitTestProject
             driver.Manage().Window.Maximize();
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(30));
             driver.Navigate().GoToUrl(baseURL);
-            driver.FindElementById("search - box").Clear();
-            driver.FindElementById("search - box").SendKeys("tire");
         }
         
         [Given(@"I am on the homepage")]
         public void GivenIAmOnTheHomepage()
         {
-            ScenarioContext.Current.Pending();
+            driver.FindElementById("asos-logo").Click();
         }
         
         [When(@"I tap the login button")]
         public void WhenITapTheLoginButton()
         {
-            ScenarioContext.Current.Pending();
+            driver.FindElementByLinkText("Sign In").Click();
         }
         
         [When(@"I provide valid login details")]
         public void WhenIProvideValidLoginDetails()
         {
-            ScenarioContext.Current.Pending();
+            IWebElement emailField = driver.FindElementById("EmailAddress");
+            emailField.SendKeys("nathe@live.com");
+            IWebElement passwordField = driver.FindElementById("Password");
+            passwordField.SendKeys("password1");
+            driver.FindElementById("signin").Click();
         }
         
         [Then(@"I am logged in")]

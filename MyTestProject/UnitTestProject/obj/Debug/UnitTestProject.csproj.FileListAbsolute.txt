@@ -11,3 +11,18 @@ c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProjec
 c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
 c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\WebDriver.dll
 c:\users\nate\documents\visual studio 2015\Projects\MyTestProject\UnitTestProject\bin\Debug\WebDriver.xml
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\Default.srprofile
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\WebDriver.dll
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\WebDriver.xml
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\nunit.framework.dll
+C:\Users\Nate\Documents\testingrepo\MyTestProject\UnitTestProject\bin\Debug\nunit.framework.xml
